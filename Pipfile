@@ -11,6 +11,7 @@ orator = "*"
 [dev-packages]
 pylint = "*"
 "autopep8" = "*"
+behave = "*"
 
 [requires]
 python_version = "3.6"

@@ -12,6 +12,7 @@ orator = "*"
 pylint = "*"
 "autopep8" = "*"
 behave = "*"
+requests = "*"
 
 [requires]
 python_version = "3.6"
